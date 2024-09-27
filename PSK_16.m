@@ -1,12 +1,8 @@
-%                         <<Experiment-6 (16-Square QAM)>>
-%                               << Objective-1 >>
-% Aim: Simulation study of Performance of 16-Square QAM.
+
 % Objective-1:Write a program to plot signal constellation diagram of received
 %            16-Square QAM signal in the presence of AWGN.
 % Objective-2:Write a program to plot Practical and Theoretical BER vs SNR graph
 %             of received 16-Square QAM in the presence of AWGN for ML receiver.
-
-% Note: For objective-2, see separate octave file named <my_16QAM_ber.m>
 clc;
 clear all;
 close all;
